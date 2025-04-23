@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Effective Date**: [Today's Date]
+**Effective Date**: 04/23/2025
 
 These Terms of Use govern your use of our application. By using the app, you agree to these terms.
 
