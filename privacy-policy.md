@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date**: [Today's Date]
+**Effective Date**: 04/23/2025
 
 Thank you for using our application. We are committed to protecting your privacy.
 
